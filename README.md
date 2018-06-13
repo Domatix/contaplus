@@ -1,6 +1,6 @@
 # Contaplus
 
-Importación de datos de Contaplus a Odoo 10.
+Importación de datos de Contaplus a Odoo.
 
 ### Requisitos iniciales
 
